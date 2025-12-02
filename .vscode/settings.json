@@ -1,0 +1,19 @@
+{
+  "files.exclude": {
+    "**/__pycache__": true,
+    ".venv": false
+  },
+  "files.associations": {
+    "*.spec": "python"
+  },
+  "cSpell.customDictionaries": {
+    "project-words": {
+      "name": "project-words",
+      "path": "${workspaceFolder}/.vscode/project-words.txt",
+      "description": "Words used in this project",
+      "addWords": true
+    },
+    "custom": true,
+    "internal-terms": false
+  }
+}
